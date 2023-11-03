@@ -1,0 +1,16 @@
+.stopwatch {
+  text-align: center;
+}
+
+.time {
+  font-size: 36px;
+}
+
+.controls button {
+  font-size: 18px;
+  margin: 5px;
+}
+
+.lap-times {
+  list-style-type: none;
+}
